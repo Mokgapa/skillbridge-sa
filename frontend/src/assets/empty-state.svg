@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+  <title id="title">No items yet</title>
+  <desc id="desc">An illustration of an empty folder with a search symbol.</desc>
+
+  <circle cx="160" cy="115" r="88" fill="#F0FDFA"/>
+  <circle cx="160" cy="115" r="68" fill="#CCFBF1"/>
+
+  <rect x="65" y="92" width="132" height="88" rx="12" fill="#99F6E4"/>
+  <path d="M65 105V83a9 9 0 0 1 9-9h40l14 15h60a9 9 0 0 1 9 9v7" fill="#0D9488"/>
+  <path d="M65 105h132l-14 63a11 11 0 0 1-11 9H79a11 11 0 0 1-11-9z" fill="#5EEAD4"/>
+  <path d="M85 124h76" stroke="#0F766E" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <path d="M85 139h55" stroke="#0F766E" stroke-width="5" stroke-linecap="round" opacity=".35"/>
+
+  <circle cx="211" cy="142" r="34" fill="#FFFFFF" stroke="#2563EB" stroke-width="7"/>
+  <path d="M235 167l24 24" stroke="#2563EB" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="211" cy="142" r="20" fill="#DBEAFE"/>
+  <path d="M201 142h20m-10-10v20" stroke="#2563EB" stroke-width="4" stroke-linecap="round"/>
+
+  <circle cx="80" cy="51" r="5" fill="#0D9488"/>
+  <circle cx="244" cy="67" r="7" fill="#FBBF24"/>
+  <path d="M245 92l4 8 8 4-8 4-4 8-4-8-8-4 8-4z" fill="#93C5FD"/>
+  <path d="M94 190l3 6 6 3-6 3-3 6-3-6-6-3 6-3z" fill="#FBBF24"/>
+</svg>

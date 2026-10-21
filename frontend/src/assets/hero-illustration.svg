@@ -1,0 +1,63 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">SkillBridge SA career growth</title>
+  <desc id="desc">An illustration representing skills, career opportunities, and professional growth.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#CCFBF1"/>
+      <stop offset="100%" stop-color="#DBEAFE"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="320" cy="240" r="190" fill="url(#background)"/>
+  <circle cx="476" cy="98" r="28" fill="#FDE68A"/>
+  <circle cx="142" cy="335" r="18" fill="#99F6E4"/>
+  <path d="M120 350 Q320 180 520 350" fill="none" stroke="#94A3B8" stroke-width="3" stroke-dasharray="8 10"/>
+
+  <rect x="175" y="105" width="290" height="270" rx="24" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="175" y="105" width="290" height="60" rx="24" fill="url(#card)"/>
+  <path d="M175 140v25h290v-25" fill="url(#card)"/>
+  <circle cx="202" cy="135" r="5" fill="#FFFFFF" opacity=".9"/>
+  <circle cx="220" cy="135" r="5" fill="#FFFFFF" opacity=".65"/>
+  <circle cx="238" cy="135" r="5" fill="#FFFFFF" opacity=".4"/>
+
+  <circle cx="250" cy="215" r="31" fill="#FDE68A"/>
+  <path d="M222 211q3-35 31-27q20 4 25 27" fill="#334155"/>
+  <path d="M218 254q32-35 64 0v25h-64z" fill="#0D9488"/>
+  <path d="M236 244l14 18 14-18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+
+  <rect x="300" y="195" width="125" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="300" y="218" width="98" height="9" rx="4.5" fill="#E2E8F0"/>
+  <rect x="300" y="238" width="112" height="9" rx="4.5" fill="#E2E8F0"/>
+
+  <rect x="205" y="300" width="104" height="48" rx="12" fill="#CCFBF1"/>
+  <path d="M222 326l11-11 10 7 18-17" fill="none" stroke="#0D9488" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M253 305h8v8" fill="none" stroke="#0D9488" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="321" y="300" width="116" height="48" rx="12" fill="#DBEAFE"/>
+  <path d="M343 331v-12h12v12m5 0v-21h12v21m5 0v-8h12v8" fill="none" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(420 65)">
+    <rect width="104" height="68" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#FDE68A"/>
+    <path d="M19 25l4 4 8-9" fill="none" stroke="#92400E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="44" y="19" width="43" height="7" rx="3.5" fill="#94A3B8"/>
+    <rect x="44" y="32" width="31" height="6" rx="3" fill="#CBD5E1"/>
+    <rect x="17" y="49" width="70" height="7" rx="3.5" fill="#CCFBF1"/>
+  </g>
+
+  <g transform="translate(93 180)">
+    <rect width="92" height="75" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+    <path d="M22 47l13-14 11 9 21-24" fill="none" stroke="#0D9488" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M57 18h10v10" fill="none" stroke="#0D9488" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="18" y="57" width="56" height="5" rx="2.5" fill="#CBD5E1"/>
+  </g>
+
+  <path d="M483 309l8 8 16-18" fill="none" stroke="#0D9488" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="500" cy="300" r="24" fill="#FFFFFF" stroke="#99F6E4" stroke-width="3"/>
+</svg>
