@@ -8,7 +8,7 @@ from app.security.jwt import decode_access_token
 
 
 oauth2_scheme = OAuth2PasswordBearer(
-    tokenUrl="/api/auth/login"
+    tokenUrl="/auth/login"
 )
 
 user_repository = UserRepository()
